@@ -1,0 +1,30 @@
+body{
+    margin: 25px;
+    border: 2em;
+    font-family: 'Times New Roman', Times, serif;   
+    background-image: linear-gradient(to left, grey, royalblue);
+        }
+
+
+h1{font-size: 2em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: tomato;
+    text-shadow:2px 1.25px black;
+}
+
+h2{font-size: 1.5em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1.2em;}
+form{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: auto;
+    border: 1.25em;
+    padding: 2em;
+    
+}
+header{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;    
+}
+
+
